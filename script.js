@@ -17,6 +17,7 @@ const allCheckBox= document.querySelectorAll("input[type=checkbox]");
 let pass="";
 let passwordLength = 10;
 let checkCount = 0;
+uppercaseCheck.checked = true;
 
 handleSlider();
 initialPass();
