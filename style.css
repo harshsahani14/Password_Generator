@@ -216,7 +216,7 @@ h1{
     background-repeat: no-repeat ;
 }
 
-.slider::-moz-range-thumb{
+.slider::-webkit-slider-thumb{
 
     appearance: none;
     border-radius: 50%;
