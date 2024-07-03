@@ -15,13 +15,13 @@ Demo
 Installation
 
 1. Clone the repository:
-    
+    ```sh
     git clone https://github.com/harshsahani14/Password_Generator.git
-    
+    ```
 2. Navigate to the project directory:
-    
+    ```sh
     cd password-generator
-    
+    ```
 3. Open `index.html` in your preferred web browser.
 
 Usage
