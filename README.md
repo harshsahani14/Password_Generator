@@ -10,7 +10,7 @@ Features
 
 Demo
 
-[Check out the live demo here](https://harshsahani14.github.io/Password_Generator/)
+Check out the live demo here-(https://harshsahani14.github.io/Password_Generator/)
 
 Installation
 
